@@ -1,7 +1,8 @@
 """Program that prints year someone turns 100 years old.
 
 Program that asks the user to enter their name and their age.
-Prints out a message addressed to them that tells them the year that they will turn 100 years old based on the current year.
+Prints out a message addressed to them that tells them the year that they will turn 100 years old based on the
+current year given by the user.
 
 Extra:
 - Add on to the previous program by asking the user for another number and printing
