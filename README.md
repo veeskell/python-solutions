@@ -1,6 +1,3 @@
-# python-solutions
-python solutions by me.
-
 # Python Solutions
 
 This repo was created to compile my solutions of python exercises used to learn the language and programming concepts. I've also 
