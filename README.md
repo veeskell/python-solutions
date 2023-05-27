@@ -1,8 +1,9 @@
 # Python Solutions
 
-This repo was created to compile my solutions of python exercises used to learn the language and programming concepts. I've also
-added this README to put up a list that links the exercises and the websites that I took it from. You can find my Exercism solutions
-[here](https://github.com/veeskell/exercism).
+This repo was created to compile my solutions of python exercises used to learn the language and programming concepts.
+
+I've also added this README to put up a list that links my exercises and the websites from which I got them. You can find my Exercism solutions [here](https://github.com/veeskell/exercism).
+
 
 ## [Practice Python](https://github.com/veeskell/python-solutions/tree/main/practice-python)
 
