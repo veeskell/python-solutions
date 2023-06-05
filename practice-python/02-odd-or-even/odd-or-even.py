@@ -9,6 +9,6 @@ else:
     print(f"{num} is an odd number.", end='')
 
 if num % check == 0:
-    print(f" {num} can be divded by {check}.")
+    print(f" {num} can be divided by {check}.")
 else:
-    print(f" {num} can't be divded by {check}.")
+    print(f" {num} can't be divided by {check}.")
