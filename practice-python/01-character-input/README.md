@@ -7,7 +7,11 @@ Program that asks the user to enter their **name** and their **age**.
 Prints out a message addressed to them that tells them the **year that they will turn 100 years old** based on the
 **current year** provided by the user.
 
-## Extra
+## Extras
 - Add on to the previous program by asking the user for **another number** and printing
 out that many copies of the previous message.
 - Print out that many copies of the previous message on **separate lines**.
+
+## Concepts learned
+- Getting user input
+- Manipulation of strings
