@@ -16,3 +16,5 @@ I've also added this README to put up a list that links my exercises and the web
 4. Divisors | [exercise](https://www.practicepython.org/exercise/2014/02/26/04-divisors.html) | [my solution](https://github.com/veeskell/python-solutions/tree/main/practice-python/04-divisors) |
 
 5. List overlap | [exercise](https://www.practicepython.org/exercise/2014/03/05/05-list-overlap.html) | [my solution](https://github.com/veeskell/python-solutions/tree/main/practice-python/05-list-overlap) |
+
+6. String lists | [exercose](https://www.practicepython.org/exercise/2014/03/12/06-string-lists.html) | [my solution](https://github.com/veeskell/python-solutions/tree/main/practice-python/06-string-lists) |
